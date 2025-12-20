@@ -1,0 +1,539 @@
+﻿l_english:
+
+ ### - BTWE Formables - ###
+ 
+ #tcu
+ TCU_UNIFIED:0 "Transcaucasia"
+ TCU_UNIFIED_DEF:0 "Transcaucasia"
+ TCU_UNIFIED_ADJ:0 "Caucasian"
+ 
+ TCU_UNIFIED_democratic:0 "Transcaucasian Republic"
+ TCU_UNIFIED_democratic_DEF:0 "the Transcaucasian Republic"
+ TCU_UNIFIED_democratic_ADJ:0 "Caucasian"
+ 
+ TCU_UNIFIED_communism:0 "Transcaucasian Socialist Republic"
+ TCU_UNIFIED_communism_DEF:0 "the Transcaucasian Socialist Republic"
+ TCU_UNIFIED_communism_ADJ:0 "Caucasian"
+ 
+ TCU_UNIFIED_fascism:0 "Transcaucasian Nationalist State"
+ TCU_UNIFIED_fascism_DEF:0 "the Transcaucasian Nationalist State"
+ TCU_UNIFIED_fascism_ADJ:0 "Caucasian"
+ 
+ TCU_UNIFIED_neutrality:0 "Transcaucasia"
+ TCU_UNIFIED_neutrality_DEF:0 "the Transcaucasia"
+ TCU_UNIFIED_neutrality_ADJ:0 "Caucasian"
+ 
+ ###MTR
+ MTR_UNIFIED_neutrality:0 "North Caucasian Union"
+ MTR_UNIFIED_neutrality_DEF:0 "the North Caucasian Union"
+ 
+ MTR_UNIFIED_democratic:0 "Mountainous Republic"
+ MTR_UNIFIED_democratic_DEF:0 "the Mountainous Republic"
+ 
+ MTR_UNIFIED_fascism:0 "North Caucasian Union"
+ MTR_UNIFIED_fascism_DEF:0 "the North Caucasian Union"
+ 
+ MTR_UNIFIED_communism:0 "Mountainous People's Republic"
+ MTR_UNIFIED_communism_DEF:0 "the Mountainous People's Republic"
+ 
+ MTR_UNIFIED:0 "North Caucasia"
+ MTR_UNIFIED_DEF:0 "North Caucasia"
+ MTR_UNIFIED_ADJ:0 "North Caucasian"
+  
+ #TAG
+ GRT_ARM:0 "Greater Armenia"
+ GRT_ARM_DEF:0 "Armenia"
+ GRT_ARM_ADJ:0 "Armenian"
+ 
+ GRT_ARM_democratic:0 "Greater Armenian Republic"
+ GRT_ARM_democratic_DEF:0 "the Greater Armenian Republic"
+ GRT_ARM_democratic_ADJ:0 "Armenian"
+ 
+ GRT_ARM_communism:0 "Greater Armenian Socialist Republic"
+ GRT_ARM_communism_DEF:0 "the Greater Armenian Socialist Republic"
+ GRT_ARM_communism_ADJ:0 "Armenian"
+ 
+ GRT_ARM_fascism:0 "Great Armenian State"
+ GRT_ARM_fascism_DEF:0 "the Great Armenian State"
+ GRT_ARM_fascism_ADJ:0 "Armenian"
+ 
+ GRT_ARM_neutrality:0 "United Armenia"
+ GRT_ARM_neutrality_DEF:0 "the United Armenia"
+ GRT_ARM_neutrality_ADJ:0 "Armenian" 
+ 
+ #TAG
+ KNG_ARM:0 "Kingdom of Armenia"
+ KNG_ARM_DEF:0 "Armenia"
+ KNG_ARM_ADJ:0 "Armenian"
+ 
+ KNG_ARM_democratic:0 "United Armenian Kingdom"
+ KNG_ARM_democratic_DEF:0 "the United Armenian Kingdom"
+ KNG_ARM_democratic_ADJ:0 "Armenian"
+ 
+ KNG_ARM_communism:0 "United Kingdom of Armenian People"
+ KNG_ARM_communism_DEF:0 "the United Kingdom of Armenian People"
+ KNG_ARM_communism_ADJ:0 "Armenian"
+ 
+ KNG_ARM_fascism:0 "Great Kingdom of Armenia"
+ KNG_ARM_fascism_DEF:0 "the Greater Kingdom of Armenia"
+ KNG_ARM_fascism_ADJ:0 "Armenian"
+ 
+ KNG_ARM_neutrality:0 "United Armenian Kingdom"
+ KNG_ARM_neutrality_DEF:0 "the United Armenian Kingdom"
+ KNG_ARM_neutrality_ADJ:0 "Armenian" 
+ 
+ #TAG
+ GRT_GEO:0 "Greater Georgia"
+ GRT_GEO_DEF:0 "Georgia"
+ GRT_GEO_ADJ:0 "Georgian"
+ 
+ GRT_GEO_democratic:0 "Greater Georgian Republic"
+ GRT_GEO_democratic_DEF:0 "the Greater Georgian Republic"
+ GRT_GEO_democratic_ADJ:0 "Georgian"
+ 
+ GRT_GEO_communism:0 "Greater Georgian Socialist Republic"
+ GRT_GEO_communism_DEF:0 "the Greater Georgian Socialist Republic"
+ GRT_GEO_communism_ADJ:0 "Georgian"
+ 
+ GRT_GEO_fascism:0 "Greater Georgia"
+ GRT_GEO_fascism_DEF:0 "the Greater Georgia"
+ GRT_GEO_fascism_ADJ:0 "Georgian"
+ 
+ GRT_GEO_neutrality:0 "Great Kingdom of Georgia"
+ GRT_GEO_neutrality_DEF:0 "the Great Kingdom of Georgia"
+ GRT_GEO_neutrality_ADJ:0 "Georgian" 
+ 
+ #TAG
+ KNG_GEO:0 "Kingdom of Georgia"
+ KNG_GEO_DEF:0 "Georgia"
+ KNG_GEO_ADJ:0 "Georgian"
+ 
+ KNG_GEO_democratic:0 "Georgian Kingdom"
+ KNG_GEO_democratic_DEF:0 "the Georgian Kingdom"
+ KNG_GEO_democratic_ADJ:0 "Georgian"
+ 
+ KNG_GEO_communism:0 "Kingdom of Georgian People"
+ KNG_GEO_communism_DEF:0 "the Kingdom of Georgian People"
+ KNG_GEO_communism_ADJ:0 "Georgian"
+ 
+ KNG_GEO_fascism:0 "Great Kingdom of Georgia"
+ KNG_GEO_fascism_DEF:0 "the Greater Kingdom of Georgia"
+ KNG_GEO_fascism_ADJ:0 "Georgian"
+ 
+ KNG_GEO_neutrality:0 "Great Kingdom of Georgia"
+ KNG_GEO_neutrality_DEF:0 "the Great Kingdom of Georgia"
+ KNG_GEO_neutrality_ADJ:0 "Georgian" 
+ 
+ #TAG
+ TURK_UN:0 "Safavid Empire"
+ TURK_UN_DEF:0 "Safavid Empire"
+ TURK_UN_ADJ:0 "Safavid"
+
+ TURK_UN_democratic:0 "Safavid Republic"
+ TURK_UN_democratic_DEF:0 "the Safavid Republic"
+ TURK_UN_democratic_ADJ:0 "Safavid"
+
+ TURK_UN_communism:0 "Safavid Socialist Union"
+ TURK_UN_communism_DEF:0 "the Safavid Socialist Union"
+ TURK_UN_communism_ADJ:0 "Safavid"
+
+ TURK_UN_fascism:0 "Safavid Empire"
+ TURK_UN_fascism_DEF:0 "the Safavid Empire"
+ TURK_UN_fascism_ADJ:0 "Safavid"
+
+ TURK_UN_neutrality:0 "Safavid Empire"
+ TURK_UN_neutrality_DEF:0 "the Safavid Empire"
+ TURK_UN_neutrality_ADJ:0 "Safavid"
+ 
+ #TAG
+ ARM_BGR:0 "Bagratuni Kingdom"
+ ARM_BGR_DEF:0 "Bagratuni Kingdom"
+ ARM_BGR_ADJ:0 "Armenian"
+ 
+ ARM_BGR_democratic:0 "Bagratuni Confederation"
+ ARM_BGR_democratic_DEF:0 "the Bagratuni Confederation"
+ ARM_BGR_democratic_ADJ:0 "Armenian"
+ 
+ ARM_BGR_communism:0 "Bagratuni Union"
+ ARM_BGR_communism_DEF:0 "the Bagratuni Union"
+ ARM_BGR_communism_ADJ:0 "Armenian"
+ 
+ ARM_BGR_fascism:0 "Bagratuni Kingdom of Armenia"
+ ARM_BGR_fascism_DEF:0 "the Bagratuni Kingdom of Armenia"
+ ARM_BGR_fascism_ADJ:0 "Armenian"
+ 
+ ARM_BGR_neutrality:0 "Bagratuni Kingdom of Armenia"
+ ARM_BGR_neutrality_DEF:0 "the Bagratuni Kingdom of Armenia"
+ ARM_BGR_neutrality_ADJ:0 "Armenian"
+ 
+ ###TAG
+ ARM_BYZ:0 "Holy See of Armenia"
+ ARM_BYZ_DEF:0 "Holy See of Armenia"
+ ARM_BYZ_ADJ:0 "Armenian"
+ 
+ ARM_BYZ_democratic:0 "Holy See of Armenia"
+ ARM_BYZ_democratic_DEF:0 "the Holy See of Armenia"
+ ARM_BYZ_democratic_ADJ:0 "Armenian"
+ 
+ ARM_BYZ_communism:0 "Holy See of Armenia"
+ ARM_BYZ_communism_DEF:0 "the Holy See of Armenia"
+ ARM_BYZ_communism_ADJ:0 "Armenian"
+ 
+ ARM_BYZ_fascism:0 "Holy See of Armenia"
+ ARM_BYZ_fascism_DEF:0 "the Holy See of Armenia"
+ ARM_BYZ_fascism_ADJ:0 "Armenian"
+ 
+ ARM_BYZ_neutrality:0 "Holy See of Armenia"
+ ARM_BYZ_neutrality_DEF:0 "the Holy See of Armenia"
+ ARM_BYZ_neutrality_ADJ:0 "Armenian"
+ 
+ #TAG
+ AZR_TURAN:0 "Turkic Union"
+ AZR_TURAN_DEF:0 "Turkic Union"
+ AZR_TURAN_ADJ:0 "Turkic"
+ 
+ AZR_TURAN_democratic:0 "Turkic Union"
+ AZR_TURAN_democratic_DEF:0 "the Turkic Union"
+ AZR_TURAN_democratic_ADJ:0 "Turkic"
+ 
+ AZR_TURAN_communism:0 "Turkic Union"
+ AZR_TURAN_communism_DEF:0 "the Turkic Union"
+ AZR_TURAN_communism_ADJ:0 "Turkic"
+ 
+ AZR_TURAN_fascism:0 "Turkic Empire"
+ AZR_TURAN_fascism_DEF:0 "the Turkic Empire"
+ AZR_TURAN_fascism_ADJ:0 "Turkic"
+ 
+ AZR_TURAN_neutrality:0 "Turkic Union"
+ AZR_TURAN_neutrality_DEF:0 "the Turkic Union"
+ AZR_TURAN_neutrality_ADJ:0 "Turkic"
+ 
+ #turkestan
+ AZR_TURK:0 "Khanate of Turkestan"
+ AZR_TURK_DEF:0 "Khanate of Turkestan"
+ AZR_TURK_ADJ:0 "Turkic"
+ 
+ AZR_TURK_democratic:0 "Khanate of Turkestan"
+ AZR_TURK_democratic_DEF:0 "the Khanate of Turkestan"
+ AZR_TURK_democratic_ADJ:0 "Turkic"
+ 
+ AZR_TURK_communism:0 "Khanate of Turkestan"
+ AZR_TURK_communism_DEF:0 "the Khanate of Turkestan"
+ AZR_TURK_communism_ADJ:0 "Turkic"
+ 
+ AZR_TURK_fascism:0 "Khanate of Turkestan"
+ AZR_TURK_fascism_DEF:0 "the Khanate of Turkestan"
+ AZR_TURK_fascism_ADJ:0 "Turkic"
+ 
+ AZR_TURK_neutrality:0 "Khanate of Turkestan"
+ AZR_TURK_neutrality_DEF:0 "the Khanate of Turkestan"
+ AZR_TURK_neutrality_ADJ:0 "Turkic"
+ 
+ ###TRC
+ GEO_TCU_neutrality: "Kaukasus Union"
+ GEO_TCU_neutrality_DEF: "the Kaukasus Union"
+ GEO_TCU_democratic:0 "Kaukasus Democratic Federative Republic"
+ GEO_TCU_democratic_DEF:0 "the Kaukasus Democratic Federative Republic"
+ GEO_TCU_fascism:0 "Great Kaukasus State"
+ GEO_TCU_fascism_DEF:0 "the Great Kaukasus State"
+ GEO_TCU_communism:0 "Kaukasus Socialist Federative Republic"
+ GEO_TCU_communism_DEF:0 "the Kaukasus Socialist Federative Republic"
+ GEO_TCU:0 "Kaukasus"
+ GEO_TCU_DEF:0 "Kaukasus"
+ GEO_TCU_ADJ:0 "Kaukasian"
+ 
+ ### ABK GEO republic
+ ABK_GEO:0 "Abkhazia-Kartli"
+ ABK_GEO_DEF:0 "Abkhazia-Kartli"
+ ABK_GEO_ADJ:0 "Abkhazian"
+ 
+ ABK_GEO_democratic:0 "Abkhazia-Kartli Republic"
+ ABK_GEO_democratic_DEF:0 "the Abkhazia-Kartli Republic"
+ ABK_GEO_democratic_ADJ:0 "Abkhazian"
+ 
+ ABK_GEO_communism:0 "Abkhazia-Kartli Socialist Republic"
+ ABK_GEO_communism_DEF:0 "the Abkhazia-Kartli Socialist Republic"
+ ABK_GEO_communism_ADJ:0 "Abkhazian"
+ 
+ ABK_GEO_fascism:0 "Abkhazian Kingdom"
+ ABK_GEO_fascism_DEF:0 "the Abkhazian Kingdom"
+ ABK_GEO_fascism_ADJ:0 "Abkhazian"
+ 
+ ABK_GEO_neutrality:0 "Abkhazian Kingdom"
+ ABK_GEO_neutrality_DEF:0 "the Abkhazian Kingdom"
+ ABK_GEO_neutrality_ADJ:0 "Abkhazian" 
+ 
+ ### ossetia scythia
+ NOA_SCY:0 "Greater Scythia"
+ NOA_SCY_DEF:0 "Greater Scythia"
+ NOA_SCY_ADJ:0 "Scythian"
+ 
+ NOA_SCY_democratic:0 "Greater Scythia"
+ NOA_SCY_democratic_DEF:0 "the Greater Scythia"
+ NOA_SCY_democratic_ADJ:0 "Scythian"
+ 
+ NOA_SCY_communism:0 "Greater Scythia"
+ NOA_SCY_communism_DEF:0 "the Greater Scythia"
+ NOA_SCY_communism_ADJ:0 "Scythian"
+ 
+ NOA_SCY_fascism:0 "Greater Scythia"
+ NOA_SCY_fascism_DEF:0 "the Greater Scythia"
+ NOA_SCY_fascism_ADJ:0 "Scythian"
+ 
+ NOA_SCY_neutrality:0 "Greater Scythia"
+ NOA_SCY_neutrality_DEF:0 "the Greater Scythia"
+ NOA_SCY_neutrality_ADJ:0 "Scythian" 
+ 
+ ###georgian viceroyalty
+ GEO_KTC:0 "Caucasian Kingdom"
+ GEO_KTC_DEF:0 "Caucasian Kingdom"
+ GEO_KTC_ADJ:0 "Georgian"
+ 
+ GEO_KTC_democratic:0 "Caucasian Kingdom"
+ GEO_KTC_democratic_DEF:0 "the Caucasian Kingdom"
+ GEO_KTC_democratic_ADJ:0 "Georgian"
+ 
+ GEO_KTC_communism:0 "Caucasian Kingdom"
+ GEO_KTC_communism_DEF:0 "the Caucasian Kingdom"
+ GEO_KTC_communism_ADJ:0 "Georgian"
+ 
+ GEO_KTC_fascism:0 "Caucasian Kingdom"
+ GEO_KTC_fascism_DEF:0 "the Caucasian Kingdom"
+ GEO_KTC_fascism_ADJ:0 "Georgian"
+ 
+ GEO_KTC_neutrality:0 "Caucasian Kingdom"
+ GEO_KTC_neutrality_DEF:0 "the Caucasian Kingdom"
+ GEO_KTC_neutrality_ADJ:0 "Georgian"
+ 
+ ###georgian russia
+ GEO_RUS:0 "Russian Empire"
+ GEO_RUS_DEF:0 "Russian Empire"
+ GEO_RUS_ADJ:0 "Russian"
+ 
+ GEO_RUS_democratic:0 "Russian Empire"
+ GEO_RUS_democratic_DEF:0 "the Russian Empire"
+ GEO_RUS_democratic_ADJ:0 "Russian"
+ 
+ GEO_RUS_communism:0 "Russian Empire"
+ GEO_RUS_communism_DEF:0 "the Russian Empire"
+ GEO_RUS_communism_ADJ:0 "Russian"
+ 
+ GEO_RUS_fascism:0 "Russian Empire"
+ GEO_RUS_fascism_DEF:0 "the Russian Empire"
+ GEO_RUS_fascism_ADJ:0 "Russian"
+ 
+ GEO_RUS_neutrality:0 "Russian Empire"
+ GEO_RUS_neutrality_DEF:0 "the Russian Empire"
+ GEO_RUS_neutrality_ADJ:0 "Russian"
+ 
+ #middle eastern ssr
+ AZR_CME:0 "Middle Eastern Socialist Republic"
+ AZR_CME_DEF:0 "Middle Eastern Socialist Republic"
+ AZR_CME_ADJ:0 "Azerbaijani"
+ 
+ AZR_CME_democratic:0 "Middle Eastern Socialist Republic"
+ AZR_CME_democratic_DEF:0 "the Middle Eastern Socialist Republic"
+ AZR_CME_democratic_ADJ:0 "Azerbaijani"
+ 
+ AZR_CME_communism:0 "Middle Eastern Socialist Republic"
+ AZR_CME_communism_DEF:0 "the Middle Eastern Socialist Republic"
+ AZR_CME_communism_ADJ:0 "Azerbaijani"
+ 
+ AZR_CME_fascism:0 "Middle Eastern Socialist Republic"
+ AZR_CME_fascism_DEF:0 "the Middle Eastern Socialist Republic"
+ AZR_CME_fascism_ADJ:0 "Azerbaijani"
+ 
+ AZR_CME_neutrality:0 "Middle Eastern Socialist Republic"
+ AZR_CME_neutrality_DEF:0 "the Middle Eastern Socialist Republic"
+ AZR_CME_neutrality_ADJ:0 "Azerbaijani"
+ 
+ #armenian ottoman
+ ARM_OTT:0 "Armenian-Ottoman Empire"
+ ARM_OTT_DEF:0 "Armenian-Ottoman Empire"
+ ARM_OTT_ADJ:0 "Armenian"
+ 
+ ARM_OTT_democratic:0 "Armenian-Ottoman Empire"
+ ARM_OTT_democratic_DEF:0 "the Armenian-Ottoman Empire"
+ ARM_OTT_democratic_ADJ:0 "Armenian"
+ 
+ ARM_OTT_communism:0 "Armenian-Ottoman Empire"
+ ARM_OTT_communism_DEF:0 "the Armenian-Ottoman Empire"
+ ARM_OTT_communism_ADJ:0 "Armenian"
+ 
+ ARM_OTT_fascism:0 "Armenian-Ottoman Empire"
+ ARM_OTT_fascism_DEF:0 "the Armenian-Ottoman Empire"
+ ARM_OTT_fascism_ADJ:0 "Armenian"
+ 
+ ARM_OTT_neutrality:0 "Armenian-Ottoman Empire"
+ ARM_OTT_neutrality_DEF:0 "the Armenian-Ottoman Empire"
+ ARM_OTT_neutrality_ADJ:0 "Armenian" 
+ 
+ ###AZR islam muslim republic
+ 
+ AZR_ISL:0 "Caucasus Islamic State"
+ AZR_ISL_DEF:0 "Caucasus Islamic State"
+ AZR_ISL_ADJ:0 "Azerbaijani"
+ 
+ AZR_ISL_fascism:0 "Caucasus Islamic State"
+ AZR_ISL_fascism_DEF:0 "the Caucasus Islamic State"
+ AZR_ISL_fascism_ADJ:0 "Azerbaijani"
+ 
+ AZR_ISL_democratic:0 "Caucasus Islamic State"
+ AZR_ISL_democratic_DEF:0 "Caucasus Islamic State"
+ AZR_ISL_democratic_ADJ:0 "Azerbaijani"
+ 
+ AZR_ISL_neutrality:0 "Caucasus Islamic State"
+ AZR_ISL_neutrality_DEF:0 "Caucasus Islamic State"
+ AZR_ISL_neutrality_ADJ:0 "Azerbaijani"
+ 
+ AZR_ISL_communism:1 "Caucasus Islamic State"
+ AZR_ISL_communism_DEF:1 "the Caucasus Islamic State"
+ AZR_ISL_communism_ADJ:0 "Azerbaijani"
+ 
+ ###armenian soviet Union
+ 
+ ARM_RUS:0 "Soviet Union"
+ ARM_RUS_DEF:0 "Soviet Union"
+ ARM_RUS_ADJ:0 "Soviet"
+ 
+ ARM_RUS_fascism:0 "Soviet Union"
+ ARM_RUS_fascism_DEF:0 "the Soviet Union"
+ ARM_RUS_fascism_ADJ:0 "Soviet"
+ 
+ ARM_RUS_democratic:0 "Soviet Union"
+ ARM_RUS_democratic_DEF:0 "the Soviet Union"
+ ARM_RUS_democratic_ADJ:0 "Soviet"
+ 
+ ARM_RUS_neutrality:0 "Soviet Union"
+ ARM_RUS_neutrality_DEF:0 "the Soviet Union"
+ ARM_RUS_neutrality_ADJ:0 "Soviet"
+ 
+ ARM_RUS_communism:0 "Soviet Union"
+ ARM_RUS_communism_DEF:0 "the Soviet Union"
+ ARM_RUS_communism_ADJ:0 "Soviet"
+ 
+ #TAG
+ GEO_CHR:0 "Holy See of Georgia"
+ GEO_CHR_DEF:0 "Georgia"
+ GEO_CHR_ADJ:0 "Georgian"
+ 
+ GEO_CHR_democratic:0 "Holy See of Georgia"
+ GEO_CHR_democratic_DEF:0 "the Holy See of Georgia"
+ GEO_CHR_democratic_ADJ:0 "Georgian"
+ 
+ GEO_CHR_communism:0 "Holy See of Georgia"
+ GEO_CHR_communism_DEF:0 "the Holy See of Georgia"
+ GEO_CHR_communism_ADJ:0 "Georgian"
+ 
+ GEO_CHR_fascism:0 "Holy See of Georgia"
+ GEO_CHR_fascism_DEF:0 "the Holy See of Georgia"
+ GEO_CHR_fascism_ADJ:0 "Georgian"
+ 
+ GEO_CHR_neutrality:0 "Holy See of Georgia"
+ GEO_CHR_neutrality_DEF:0 "the Holy See of Georgia"
+ GEO_CHR_neutrality_ADJ:0 "Georgian"
+ 
+ #TAG
+ GEO_ROM:0 "Byzantine Empire"
+ GEO_ROM_DEF:0 "Byzantine Empire"
+ GEO_ROM_ADJ:0 "Georgian"
+ 
+ GEO_ROM_democratic:0 "Byzantine Empire"
+ GEO_ROM_democratic_DEF:0 "the Byzantine Empire"
+ GEO_ROM_democratic_ADJ:0 "Georgian"
+ 
+ GEO_ROM_communism:0 "Byzantine Empire"
+ GEO_ROM_communism_DEF:0 "the Byzantine Empire"
+ GEO_ROM_communism_ADJ:0 "Georgian"
+ 
+ GEO_ROM_fascism:0 "Byzantine Empire"
+ GEO_ROM_fascism_DEF:0 "the Byzantine Empire"
+ GEO_ROM_fascism_ADJ:0 "Georgian"
+ 
+ GEO_ROM_neutrality:0 "Byzantine Empire"
+ GEO_ROM_neutrality_DEF:0 "the Byzantine Empire"
+ GEO_ROM_neutrality_ADJ:0 "Georgian" 
+ 
+ #TAG
+ NOA_KNG:0 "Transcaucasian Kingdom"
+ NOA_KNG_DEF:0 "Transcaucasian Kingdom"
+ NOA_KNG_ADJ:0 "Alanian"
+ 
+ NOA_KNG_democratic:0 "Transcaucasian Kingdom"
+ NOA_KNG_democratic_DEF:0 "the Transcaucasian Kingdom"
+ NOA_KNG_democratic_ADJ:0 "Alanian"
+ 
+ NOA_KNG_communism:0 "Transcaucasian Kingdom"
+ NOA_KNG_communism_DEF:0 "the Transcaucasian Kingdom"
+ NOA_KNG_communism_ADJ:0 "Alanian"
+ 
+ NOA_KNG_fascism:0 "Transcaucasian Kingdom"
+ NOA_KNG_fascism_DEF:0 "the Transcaucasian Kingdom"
+ NOA_KNG_fascism_ADJ:0 "Alanian"
+ 
+ NOA_KNG_neutrality:0 "Transcaucasian Kingdom"
+ NOA_KNG_neutrality_DEF:0 "the Transcaucasian Kingdom"
+ NOA_KNG_neutrality_ADJ:0 "Alanian" 
+ 
+ #TAG
+ NOA_PER:0 "Aryan Empire"
+ NOA_PER_DEF:0 "Aryan Empire"
+ NOA_PER_ADJ:0 "Iranic"
+ 
+ NOA_PER_democratic:0 "Aryan Empire"
+ NOA_PER_democratic_DEF:0 "the Aryan Empire"
+ NOA_PER_democratic_ADJ:0 "Iranic"
+ 
+ NOA_PER_communism:0 "Aryan Empire"
+ NOA_PER_communism_DEF:0 "the Aryan Empire"
+ NOA_PER_communism_ADJ:0 "Iranic"
+ 
+ NOA_PER_fascism:0 "Aryan Empire"
+ NOA_PER_fascism_DEF:0 "the Aryan Empire"
+ NOA_PER_fascism_ADJ:0 "Iranic"
+ 
+ NOA_PER_neutrality:0 "Aryan Empire"
+ NOA_PER_neutrality_DEF:0 "the Aryan Empire"
+ NOA_PER_neutrality_ADJ:0 "Iranic"
+ 
+ #TAG
+ AZR_QAJ:0 "Qajar Empire"
+ AZR_QAJ_DEF:0 "Qajar Empire"
+ AZR_QAJ_ADJ:0 "Azerbaijani"
+
+ AZR_QAJ_democratic:0 "Qajar Republic"
+ AZR_QAJ_democratic_DEF:0 "the Qajar Republic"
+ AZR_QAJ_democratic_ADJ:0 "Azerbaijani"
+
+ AZR_QAJ_communism:0 "Qajar Socialist Union"
+ AZR_QAJ_communism_DEF:0 "the Qajar Socialist Union"
+ AZR_QAJ_communism_ADJ:0 "Azerbaijani"
+
+ AZR_QAJ_fascism:0 "Qajar Empire"
+ AZR_QAJ_fascism_DEF:0 "the Qajar Empire"
+ AZR_QAJ_fascism_ADJ:0 "Azerbaijani"
+
+ AZR_QAJ_neutrality:0 "Qajar Empire"
+ AZR_QAJ_neutrality_DEF:0 "the Qajar Empire"
+ AZR_QAJ_neutrality_ADJ:0 "Azerbaijani"
+ 
+ #TAG
+ AZR_TURKEY:0 "Second Turkish Republic"
+ AZR_TURKEY_DEF:0 "Second Turkish Republic"
+ AZR_TURKEY_ADJ:0 "Turkish"
+
+ AZR_TURKEY_democratic:0 "Second Turkish Republic"
+ AZR_TURKEY_democratic_DEF:0 "the Second Turkish Republic"
+ AZR_TURKEY_democratic_ADJ:0 "Turkish"
+
+ AZR_TURKEY_communism:0 "Second Turkish Republic"
+ AZR_TURKEY_communism_DEF:0 "the Second Turkish Republic"
+ AZR_TURKEY_communism_ADJ:0 "Turkish"
+
+ AZR_TURKEY_fascism:0 "Second Turkish Republic"
+ AZR_TURKEY_fascism_DEF:0 "the Second Turkish Republic"
+ AZR_TURKEY_fascism_ADJ:0 "Turkish"
+
+ AZR_TURKEY_neutrality:0 "Second Turkish Republic"
+ AZR_TURKEY_neutrality_DEF:0 "the Second Turkish Republic"
+ AZR_TURKEY_neutrality_ADJ:0 "Turkish"

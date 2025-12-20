@@ -1,0 +1,33 @@
+﻿l_english:
+ 
+ #Georgia
+ GEO_infantry_equipment_0:0 "Dziritadi Shashkhani modeli 1891"
+ GEO_infantry_equipment_0_short:0 "Mosin DS-91"
+ GEO_infantry_equipment_1:0 "Dziritadi Karabini modeli 1935"
+ GEO_infantry_equipment_1_short:0 "Lee–Enfield DK-35"
+ GEO_infantry_equipment_2:0 "Pistolet-Tqviamprkvevebi modeli 1935"
+ GEO_infantry_equipment_2_short:0 "PT-35"
+ GEO_infantry_equipment_3:0 "Dziritadi Shashkhani modeli 1943"
+ GEO_infantry_equipment_3_short:0 "DS-43"
+
+ ####Armenia
+ 
+ ARM_infantry_equipment_0:0 "Himnakan Zeytuni Model 1891"
+ ARM_infantry_equipment_0_short:0 "Mosin HZ-91"
+ ARM_infantry_equipment_1:0 "Himnakan Karabini Model 1935"
+ ARM_infantry_equipment_1_short:0 "MAS HK-35"
+ ARM_infantry_equipment_2:0 "Kisavtomat Pistoleti Model 1935"
+ ARM_infantry_equipment_2_short:0 "KP-35"
+ ARM_infantry_equipment_3:0 "Himnakan Zeytuni Model 1943"
+ ARM_infantry_equipment_3_short:0 "HZ-43"
+ 
+ ####Azerbaijan
+ 
+ AZR_infantry_equipment_0:0 "Mosin-Nagant 1891 Versiyasi"
+ AZR_infantry_equipment_0_short:0 "Mosin EB-91"
+ AZR_infantry_equipment_1:0 "Esas Karabina Modeli 1935"
+ AZR_infantry_equipment_1_short:0 "Lee–Enfield EK-35"
+ AZR_infantry_equipment_2:0 "Yariavtomatik Pistolet Modeli 1935"
+ AZR_infantry_equipment_2_short:0 "YP-35"
+ AZR_infantry_equipment_3:0 "Esas Baku Modeli 1943"
+ AZR_infantry_equipment_3_short:0 "EB-43"
