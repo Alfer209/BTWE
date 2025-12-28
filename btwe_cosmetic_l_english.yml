@@ -537,3 +537,24 @@
  AZR_TURKEY_neutrality:0 "Second Turkish Republic"
  AZR_TURKEY_neutrality_DEF:0 "the Second Turkish Republic"
  AZR_TURKEY_neutrality_ADJ:0 "Turkish"
+ 
+ #TAG
+ KUR_ARM:0 "Protectorate of Kurdistan"
+ KUR_ARM_DEF:0 "Protectorate of Kurdistan"
+ KUR_ARM_ADJ:0 "Kurdish"
+
+ KUR_ARM_democratic:0 "Protectorate of Kurdistan"
+ KUR_ARM_democratic_DEF:0 "the Protectorate of Kurdistan"
+ KUR_ARM_democratic_ADJ:0 "Kurdish"
+
+ KUR_ARM_communism:0 "Protectorate of Kurdistann"
+ KUR_ARM_communism_DEF:0 "the Protectorate of Kurdistan"
+ KUR_ARM_communism_ADJ:0 "Kurdish"
+
+ KUR_ARM_fascism:0 "Protectorate of Kurdistan"
+ KUR_ARM_fascism_DEF:0 "the Protectorate of Kurdistan"
+ KUR_ARM_fascism_ADJ:0 "Kurdish"
+
+ KUR_ARM_neutrality:0 "Protectorate of Kurdistan"
+ KUR_ARM_neutrality_DEF:0 "the Protectorate of Kurdistan"
+ KUR_ARM_neutrality_ADJ:0 "Kurdish"

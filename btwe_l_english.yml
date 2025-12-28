@@ -185,10 +185,12 @@
  ARM_referendum_geo_desc:0 "The Javakh region, with its significant Armenian population, holds deep cultural and historical ties to our nation. Through careful diplomacy, we can propose a peaceful transfer of the territory in exchange for guaranteeing Georgia’s independence. If successful, this agreement will strengthen Armenian-Georgian relations and lay the groundwork for future military cooperation."
  ARM_wilsonian_armenia:0 "Shadow of Sevres"
  ARM_wilsonian_armenia_desc:0 "Let the world tremble as we resurrect the unfulfilled promise of 1920! Diplomats dispatch coded telegrams to Athens, London, and Paris, urging them to honor their century-old pledge. Together, we shall reclaim Armenia’s homeland stretching from sea to sacred mountain. But beware: the price of it is blood, and the wolves of Ankara will not die quietly."
+ 
  ARM_transcaucasian_deplomacy:0 "Transcaucasian Diplomacy"
  ARM_transcaucasian_deplomacy_desc:0 "Georgia, Azerbaijan, and Armenia, once we were a united, but a short-lived state. This idea should be renewed and we should establish good diplomatic ties with our neighbors and resolve all territorial disputes."
  ARM_yerevan_conference:0 "Convene the Yerevan Conference"
  ARM_yerevan_conference_desc:0 "The special conference of Transcaucasian nations should be convened in Yerevan. We must unite before we find ourselves alone against Great Powers."
+ 
  ARM_implement_reforms:0 "Implement Social Reforms"
  ARM_implement_reforms_desc:0 "Our schools, hospitals, and unions unite to uplift every citizen. Free textbooks break the chains of illiteracy. The people cheer! Finally, progress serves the many, not the few. With minds sharpened and bodies healthy, Armenia proves that justice is not a luxury, but the bedrock of a nation unbreakable."
  ARM_lori_triumph:0 "Triumph in Lori"
@@ -397,22 +399,41 @@
  GEO_georgian_farmers_desc:0 "The agricultural sector of the country has been horribly hit and is rapidly falling. To prevent widescale collapse and poverty among Georgia's farmers we must step in to make sure they remain afloat with government subsidies."
  GEO_expand_batumi:0 "Expand the Batumi Harbour"
  GEO_expand_batumi_desc:0 "Batumi Harbour, is the largest and most profitable harbour in Georgia. By freeing up some funds we can develop it further, invest in the region as a whole and make shipping and foreign enterprise more accessible."
- GEO_attract_investors:0 "Attract Foreign Investors"
+ GEO_attract_investors:0 "Arms Factory Investments"
  GEO_attract_investors_desc:0 "Foreign capital can provide the boost our economy needs to modernize and expand rapidly. By creating favorable conditions for international businesses and offering incentives, we can attract investors who will build new factories and help strengthen our military industry. This influx of foreign expertise and resources will fuel our growth."
  GEO_develop_nation:0 "Develop the Nation"
  GEO_develop_nation_desc:0 "To secure a prosperous future, we must invest in our nation’s infrastructure and industrial capacity. By focusing on building new factories and improving key sectors of our economy, we can create jobs, enhance productivity, and lay the foundation for long-term growth."
- GEO_georgian_university:0 "Tbilisi University"
+ GEO_georgian_university:0 "Fund Tbilisi University"
  GEO_georgian_university_desc:0 "Education is the cornerstone of progress. By investing in Tbilisi University, we can foster a new generation of skilled professionals and scientists who will drive innovation and technological advancement. Expanding our educational institutions will provide the knowledge needed to propel our nation into the future."
  GEO_georgian_factories:0 "Urban Growth"
  GEO_georgian_factories_desc:0 "As our population increases and industry expands, our cities must grow to meet new demands. By investing in urban development, we can construct new housing, factories, and services-transforming our urban centers into engines of economic progress and modern living."
  GEO_industry_ossetia:0 "Industrialize Inner Kartli"
  GEO_industry_ossetia_desc:0 "The southern region of Alania is in desperate need of industrialization like the rest of our constituent states. Holding miles of unspoiled woodlands as well as ripe deposits of iron, coal, copper, and manganese, the small region has its uses. With new factories, mines, and woodcutting operations being created, we shall bring economic prosperity to the Alanians while also bolstering our state’s economy."
- GEO_industry_abkhazia:0 "Industrialize Abkhazia"
+ GEO_industry_abkhazia:0 "Industrialize Abkhazeti"
  GEO_industry_abkhazia_desc:0 "Abkhazia holds untapped potential that can be harnessed through targeted investment. By expanding infrastructure and establishing new factories, we can transform the region into a productive part of our national economy-bringing both development and strategic value to the western frontier."
  GEO_georgian_arsenal:0 "Georgian Arsenal"
  GEO_georgian_arsenal_desc:0 "Our Arsenal shall serve as the central holding facility and production center for both small and large arms, and wider weapons of war, for the nation. Having the bulk of our specialized arms made and stored in one central and well defended location will allow us to hold these weapons from our enemies at all costs while also allowing us to produce them as efficiently as possible."
  GEO_steel_mill:0 "Kutais Steel Factory"
  GEO_steel_mill_desc:0 "Kutais has long been an important industrial center, and with the establishment of a modern steel factory, it will play a key role in our nation’s development. This facility will provide the steel needed for construction and military production, while also creating jobs and strengthening the local economy."
+ 
+ GEO_import_tariffs:0 "Increase Import Tariffs"
+ GEO_import_tariffs_desc:0 "To protect our economy, import tariffs will be imposed to make foreign goods less appealing to our own consumers in order to preserve our domestic market activity."
+ GEO_subsidize_businesses:0 "Subsidize Foreign Businesses"
+ GEO_subsidize_businesses_desc:0 "By offering generous subsidies and guarantees, we can encourage foreign enterprises to establish themselves within Georgia. While this policy may increase our reliance on outside interests, the immediate gains in industrial capacity and technical expertise cannot be ignored."
+ GEO_vineyard_industry:0 "Kakheti Vineyards"
+ GEO_vineyard_industry_desc:0 "The fertile lands of Kakheti have long been the heart of Georgian viticulture. By investing in modern production methods and infrastructure, we can transform these vineyards into a reliable pillar of our civilian economy."
+ GEO_chromium_industry:0 "Georgian Chromium"
+ GEO_chromium_industry_desc:0 "Georgia’s soil hides valuable mineral wealth, particularly chromium vital to modern industry and armament production. Expanding extraction in both Georgia proper and Abkhazia will strengthen our economy and increase our strategic importance abroad."
+ GEO_duty_free_policies:0 "Duty-Free Policies"
+ GEO_duty_free_policies_desc:0 "Reducing trade barriers and easing customs regulations will make Georgia a more attractive destination for international commerce. These policies will not only stimulate domestic production but also amplify the benefits of our existing cooperation with foreign businesses."
+ GEO_industry_subsidies:0 "Attract Foreign Investors"
+ GEO_industry_subsidies_desc:0 "With political stability and economic reforms underway, Georgia can present itself as a safe and profitable destination for foreign capital. Encouraging direct investment will accelerate industrial growth and reduce the strain on state resources."
+ GEO_foreign_company:0 "Krupp Georgien"
+ GEO_foreign_company_desc:0 "Krupp is one of the oldest German businesses and is a major player in the world of steel and armaments. Securing their investments in Georgia will be an incredibly lucrative business venture and ensure a mutually beneficial relationship."
+ GEO_foreign_students:0 "Foreign Student Projects"
+ GEO_foreign_students_desc:0 "By sending Georgian students abroad and welcoming foreign specialists into our institutions, we can accelerate the exchange of knowledge and modern ideas. Such academic cooperation will strengthen our scientific base and prepare a new generation of experts."
+ GEO_mining_industry:0 "Mining Expansion"
+ GEO_mining_industry_desc:0 "As industrial demands grow, so too must our resource extraction. Expanding steel and coal production will support domestic industry and reduce dependence on foreign imports during times of crisis."
  
  
 
@@ -441,8 +462,10 @@
  GEO_officer_training_desc:0 "The officer corps of the People's Guard have began to stagnate due to lack of military confrontation and dropping of standards in recent years. By retraining many of these officers in new military developments, we can revitalize the officer corps."
  GEO_local_production:0 "Local Production"
  GEO_local_production_desc:0 "If we want to have a strong independent army we must be able to produce our equipment ourselves without needing to buy them from foreign nations."
- GEO_small_arms:0 "Small Arms Development"
- GEO_small_arms_desc:0 "Georgia lacks a comprehensive arms industry but with some government funding we can wean ourselves off foreign companies and develop a small but thriving domestic weapons development sector."
+ 
+ GEO_small_arms:0 "Motorization Program"
+ GEO_small_arms_desc:0 "The Caucasus is no place for a slow army. Improved motor transport and mechanized support will allow our troops to overcome geography itself, ensuring supply lines remain intact from the Black Sea to the mountain passes."
+ 
  GEO_artillery_investment:0 "Artillery Investments"
  GEO_artillery_investment_desc:0 "Artillery is a vital necessity to any armed forces and has long been a staple of warfare across the world. While Georgia may lack domestic production, freeing up some funds can help rectify this issue."
  GEO_anti_air_investement:0 "Anti-Air Investments"
@@ -460,8 +483,11 @@
  GEO_mountain_warfare:0 "Mountain Warfare"
  GEO_mountain_warfare_desc:0 "Due to the nature of the terrain on which we choose to live, our units have all been trained since birth to live and navigate across these mountain ranges. With this innate knowledge fostered within all true Caucasians, we will move to officially recognize this in our army, while actively organizing and improving our alpine tactics into a coherent doctrine our entire armed forces can follow."
  
+ GEO_tank_research:0 "Light Armor Development"
+ GEO_tank_research_desc:0 "Tanks may struggle in the Caucasus, but properly supported light armor can still provide decisive firepower. By adapting armored designs to our terrain, we can integrate tanks into our defensive and counter-offensive plans."
  
- 
+ GEO_arti_school:0 "Fund the Tbilisi Artillery School"
+ GEO_arti_school_desc:0 "By allocating state resources to the Tbilisi Higher Artillery Command School, Georgia will improve the training of artillery officers and crews. Modern doctrine, better coordination with infantry, and enhanced technical education will significantly strengthen the effectiveness of our artillery and the army as a whole."
  
  
  ####AIR
@@ -835,6 +861,7 @@
  AZR_military_directorate_desc:0 "Centralizing oversight of our arms production under a dedicated directorate will streamline operations and improve output. Establishing this new authority allows us to better coordinate resources, optimize factory performance, and expand our capacity to equip the armed forces efficiently."
  
  ##air
+ 
  AZR_air_fields:0 "Strategic Airfields"
  AZR_air_fields_desc:0 "While we have a small air force and two somewhat operational airfields, they aren't simply enough to guarantee the safety of our airspace."
  AZR_new_planes:0 "New Airplane Models"
@@ -1078,6 +1105,12 @@
  AZR_unite_sinkiang:0 "Proposal to Sinkiang"
  AZR_unite_sinkiang_desc:0 "We will send a formal proposal to the government of Sinkiang, outlining the benefits of political alignment and potential integration. A shared future may ensure stability and cooperation across Central Asia."
  
+ AZR_invite_hungary:0 "Invite Hungary"
+ AZR_invite_hungary_desc:0 "Although separated by geography, Hungary shares deep historical and cultural ties with the Turkic world. By emphasizing common origins, mutual interests, and strategic cooperation, we can bring Hungary into our emerging bloc and strengthen our position in Central Europe."
+ 
+ AZR_invite_finland:0 "Northern Partners"
+ AZR_invite_finland_desc:0 "Beyond the Turkic nations, several peoples of the north share cultural links, common rivals, and aligned strategic interests with our cause. By extending our hand to Finland and Estonia, we can expand the bloc into Northern Europe and create a broader coalition against our adversaries."
+ 
  AZR_turkish_protocol:0 "Turkish War Protocol"
  AZR_turkish_protocol_desc:0 "Implementing the Turkish War Protocol signals our commitment to rapid mobilization and military readiness. Our economy will shift to a war footing, enabling the expansion of our military-industrial capacity."
  AZR_for_fatherland:0 "For the Fatherland"
@@ -1157,6 +1190,10 @@
  AZR_ittihad_path_desc:0 "The Ittihad Party calls upon us to return to our roots and honor the spiritual and cultural traditions that once bound our people together. By embracing our past, we will chart a new course for the future."
  AZR_support_imams:0 "Support Imams"
  AZR_support_imams_desc:0 "The imams are the voice of faith among our people. By strengthening their role and supporting their authority, we reinforce the spiritual foundation of our society and gain the trust of the faithful."
+ 
+ AZR_cleanse_state:0 "Cleanse the State"
+ AZR_cleanse_state_desc:0 "A handful of oil magnates have enriched themselves while the state has grown weak and divided. By sweeping away their corrupt networks, we can restore order, discipline, and justice, ensuring that Azerbaijan’s wealth serves the people, not profiteers."
+ 
  AZR_land_of_faith:0 "The Land of Faith"
  AZR_land_of_faith_desc:0 "Our homeland must be recognized not only as a nation, but as a land of faith. By centering religion at the heart of governance, we ensure that our state reflects the will of the divine."
  AZR_become_ittihad:0 "The Caucasus Islamic State"
@@ -1500,6 +1537,8 @@
  
 ####ARMENIAN generals
 
+ arm_bedros_hallachyan:0 "Bedros Hallachyan"
+
  arm_levon_pashalian:0 "Levon Pashalyan"
  
  arm_jangir_agha:0 "Jangir Agha"
@@ -1605,6 +1644,10 @@
 
  ####GEO generals
  
+ GEO_noe_khomeriki:0 "Noe Khomeriki"
+ 
+ GEO_benia_chkhikvishvili:0 "Benia Chkhikvishvili"
+ 
  geo_stepane_akhmeteli:0 "Stepane Akhmeteli"
  
  GEO_ioseb_jughashvili:0 "Ioseb Jughashvili"
@@ -1694,8 +1737,6 @@
  
  geo_grigol_tsereteli:0 "Grigol Tsereteli"
  
- GEO_lavrentiy_beria:0 "Lavrentiy Beria"
- 
  GEO_sergo_goglidze:0 "Sergo Goglidze"
  
  geo_georgi_arjevanidze:0 "Georgi Arjevanidze"
@@ -1705,92 +1746,92 @@
 
  ####AZR generals
  
- azr_mashadi_azizbeyov:0 "Mashadi Azizbeyov"
+ azr_mashadi_azizbeyov:0 "Maşadi Azizbeyov"
  
- azr_fatali_khan_khoyski:0 "Fatali Khan Khoyski"
+ AZR_mehdi_huseynzade:0 "Mehdi Hüseynzade"
+ 
+ azr_fatali_khan_khoyski:0 "Fatali xan Xoyski"
+ 
+ azr_abdulla_bey_efendizade:0 "Abdulla bey Efendizade"
  
  azr_parliament_of_azerbaijan:0 "Parliament of Azerbaijan"
  
- azr_ahmed_bey_aghaoghlu:0 "Ahmed Bey Aghaoghlu"
+ azr_ahmed_bey_aghaoghlu:0 "Ahmed bey Ağaoğlu"
  
- azr_mursel_baku:0 "Mürsel Bakû"
+ azr_mursel_baku:0 "Mürsel Bakı"
  
  azr_veli_bey_yadigar:0 "Veli bey Yadigar"
  
- azr_ibrahim_bey_usubov:0 "Ibrahim bey Usubov"
+ azr_ibrahim_bey_usubov:0 "İbrahim ağa Usubov"
  
- azr_rashid_khan_kaplanov:0 "Rashid Khan Kaplanov"
+ azr_rashid_khan_kaplanov:0 "Raşid xan Qaplanov"
  
- azr_mammad_yusif_jafarov:0 "Mammad Yusif Jafarov"
+ azr_mammad_yusif_jafarov:0 "Mammad Yusif Cafarov"
 
- characters_khosrov_bey_sultanov:0 "Khosrov bey Sultanov"
+ characters_khosrov_bey_sultanov:0 "Xosrov bey Sultanov"
  
- azr_feyzullah_mirza_qajar:0 "Feyzullah Mirza Qajar"
+ azr_feyzullah_mirza_qajar:0 "Feyzulla mirza Qacar"
  
  AZR_mohammad_hassan_mirza:0 "Mohammad Hassan Mirza"
  
- azr_aleksander_mirza_qajar:0 "Aleksander Mirza Qajar"
+ azr_aleksander_mirza_qajar:0 "Aleksandr Rzaqulu Mirza"
 
  azr_mehmed_emin_resulzade:0 "Mahammad Amin Rasulzade"
  
  azr_abdulla_bey_efendizade:0 "Abdulla bey Efendizade"
  
- azr_naghi_sheykhzamanli:0 "Naghi Sheykhzamanli"
+ azr_naghi_sheykhzamanli:0 "Nağı bey Şeyxzamanlı"
 
- azr_ruhulla_akhundov:0 "Ruhulla Akhundov"
- azr_ahmet_bey_pepinov:0 "Ahmet bey Pepinov"
+ azr_ruhulla_akhundov:0 "Ruhulla Axundov"
+ azr_ahmet_bey_pepinov:0 "Ahmed bey Pepinov"
  
- azr_abdulhamid_bey_gaytabashi:0 "Abdulhamid bey Gaytabashi"
+ azr_abdulhamid_bey_gaytabashi:0 "Abdülhamid bey Qaytabaşı"
 
- azr_jamshid_nakhchivanski:0 "Jamshid Nakhchivanski"
+ azr_jamshid_nakhchivanski:0 "Camşid Naxçıvanski"
 
  azr_qara_bey_qarabeyov:0 "Qara bey Qarabeyli"
 
- azr_jahangir_bey_novruzov:0 "Jahangir bey Novruzov"
+ azr_jahangir_bey_novruzov:0 "Cahangir bey Novruzov"
  
- azr_mir_jafar_baghirov:0 "Mir Jafar Baghirov"
- azr_aliagha_shikhlinski:0 "Aliagha Shikhlinski"
+ azr_mir_jafar_baghirov:0 "Mir Cafar Bağırov"
+ azr_aliagha_shikhlinski:0 "Aliağa Şıxlinski"
  
- azr_suleyman_bey_sulkevich:0 "Suleyman bey Sulkevich"
+ azr_suleyman_bey_sulkevich:0 "Mammad bey Sulkeviç"
 
  
  ####AZR
- azr_khalil_mammadov:0 "Khalil Mammadov"
- azr_sadykh_bey_aghabeyov:0 "Sadykh bey Aghabeyov"
- azr_ibrahim_bey_usubov:0 "Ibrahim bey Usubov"
- azr_lavrentiy_beria:0 "Lavrentiy Beria"
- azr_ali_bey_huseynzade:0 "Ali bey Huseynzade"
- azr_nasib_bey_yusifbeyli:0 "Nasib bey Yusifbeyli"
- azr_nariman_narimanov:0 "Nariman Narimanov"
- 
- azr_hamid_bey_shahtakhtinski:0 "Hamid bey Shahtakhtinski"
- azr_mammad_hasan_hajinski:0 "Mammad Hasan Hajinski"
- azr_hamid_arasly:0 "Hamid Arasly"
- azr_mustafa_mahmudov:0 "Mustafa Mahmudov"
- azr_suleyman_rustam:0 "Suleyman Rustam"
+ azr_khalil_mammadov:0 "Xalil Mammadov"
+ azr_sadykh_bey_aghabeyov:0 "Sadıq bey Ağabeyzade"
 
+ azr_ali_bey_huseynzade:0 "Ali bey Hüseynzade"
+ azr_nasib_bey_yusifbeyli:0 "Nasib bey Yusifbeyli"
  
- 
+ azr_hamid_bey_shahtakhtinski:0 "Hamid bey Şahtaxtinski"
+ azr_mammad_hasan_hajinski:0 "Mammadhasan Hacınski"
+ azr_hamid_arasly:0 "Hamid Araslı"
+ azr_mustafa_mahmudov:0 "Mustafa Mahmudov"
+ azr_suleyman_rustam:0 "Süleyman Rüstam"
+
  azr_tarlan_aliyarbayov:0 "Tarlan Aliyarbayov"
  
- azr_aliheydar_garayev:0 "Aliheydar Garayev"
- azr_shafi_bey_rustambeyli:0 "Shafi bey Rustambeyli"
+ azr_aliheydar_garayev:0 "Aliheydar Qarayev"
+ azr_shafi_bey_rustambeyli:0 "Şafi bey Rüstambeyli"
  azr_habib_bey_salimov:0 "Habib bey Salimov"
  
- azr_jahangir_bey_kazimbeyli:0 "Jahangir bey Kazimbeyli"
- azr_javad_bey_shikhlinski:0 "Javad bey Shikhlinski"
+ azr_jahangir_bey_kazimbeyli:0 "Cahangir bey Kazımbeyli"
+ azr_javad_bey_shikhlinski:0 "Cavad bey Şıxlinski"
  azr_hazi_aslanov:0 "Hazi Aslanov"
  azr_teymur_bey_novruzov:0 "Teymur bey Novruzov"
  
- azr_jalil_javadov:0 "Jalil Javadov"
- azr_chingiz_ildyrym:0 "Chingiz Ildyrym"
- azr_zuleykha_seyidmammadova:0 "Zuleykha Seyidmammadova"
+ azr_jalil_javadov:0 "Calil Cavadov"
+ azr_chingiz_ildyrym:0 "Çingiz İldırım"
+ azr_zuleykha_seyidmammadova:0 "Züleyxa Seyidmammadova"
  
  azr_yusif_mammadaliyev:0 "Yusif Mammadaliyev"
  
- azr_israfil_israfilov:0 "Israfil Israfilov"
- azr_mammed_agpolad:0 "Mammed Agpolad"
- azr_baba_behbud:0 "Baba Behbud"
+ azr_israfil_israfilov:0 "İsrafil İsrafilov"
+ azr_mammed_agpolad:0 "Mammed Ağpolad"
+ azr_baba_behbud:0 "Baba bey Behbud"
 
  
  ####IDEAS####
@@ -1935,8 +1976,15 @@
  
  GEO_reeducation_idea:0 "New Curriculum"
  
+ GEO_artillery_school_idea:0 "Tbilisi Higher Artillery Command School"
+ 
  rustavi_factory:0 "Rustavi Metallurgical Plant"
  GEO_university_concern:0 "Tbilisi State University"
+ 
+ krupp_georgia_idea:0 "Krupp"
+ GEO_import_tarrifs:0 "Import Tariffs"
+ GEO_vineyards_idea:0 "Georgian Vineyards"
+ GEO_foreign_investments_idea:0 "Foreign Investments"
  
  
  
@@ -1950,6 +1998,11 @@
  AZR_oil_idea_desc:0 "Initially established in Iran, the Anglo-Persian Oil Company extended its operations into Azerbaijan in the aftermath of the Great War, drawn by the vast oil fields of Baku. Though the presence of foreign capital was once seen as a path to modernization, many in azerbaijan now view the company’s branch as an exploitative force"
  AZR_partizan:0 "Partisan Resistance"
  AZR_partizan_desc:0 "Armenian partisans use the rugged terrain to launch surprise attacks on Azerbaijan. Their quick, unexpected strikes make any invasion harder and more costly for the enemy."
+ 
+ AZR_remnants_of_armenian_insurgents:0 "Aftermath of the Qarabag Conflict"
+ AZR_secret_operations:0 "Secret Operation in Qarabag"
+ AZR_british_oil_trade:0 "Trade Treaty with the British"
+ 
  AZR_oil_company:0 "Branobel"
  AZR_secular_state:0 "Secularized State"
  AZR_secular_state_desc:0 "Since the independence war, it has been decreed that in order to stand with the other great nations of the world, then [AZR.GetNameDef] needs to modernize. This includes separating religion and state. People can still practice Islam, however it will no longer have sway in our nation's politics."
@@ -2011,7 +2064,7 @@
  AZR_artillery_idea:0 "Artillery Funding"
  AZR_ganja_military_school:0 "Ganja School of Ensigns"
  
- AZR_musavatist_republic:0 "The Musavatist Republic"
+ AZR_musavatist_republic:0 "Promise of May 28"
  
  AZR_qualified_personnel:0 "Talent Development"
  AZR_protectionism_idea:0 "Protectionism"
@@ -2075,6 +2128,7 @@
  
  ####Decisions
  form_greater_armenia:0 "Reunification of the Armenian Lands"
+ release_armenian_kurdistan:0 "Establish an Armenian Mandate in Kurdistan"
  form_armenian_kingdom_cat:0 "Restoration of the Armenian Kingdom"
  form_armenian_kingdom_cat_desc:0 "Our recent conquests have reached the extents of the Tigranes the Great's Kingdom. With our region's rich history, how can we not take this opportunity to identify our realm as a continuation of the empire?"
  armenian_kingdom:0 "Restore the Armenian Kingdom"
@@ -2197,6 +2251,15 @@
  
  noa_form_iranic_union:0 "Form the Iranic Union."
  
+ AZR_internal_issues_category:0 "To Save the Nation"
+ AZR_karabakh_escalation_mission:0 "[ARM.GetFlag] Armenian Intervention Imminent"
+ AZR_launch_raid_in_mountains:0 "Launch Raid in the Mountains"
+ AZR_dagestan_uprising_mission:0 "The North Caucasian Rebellion"
+ 
+ develop_kajaran_mines:0 "Open the Kajaran Mine"
+ develop_armenia_aluminium_deposits:0 "Exploit Northern Armenia's Aluminium"
+ develop_armenia_coal_mine:0 "Open Coal Mines in Nakhchivan"
+ 
 ####EVENTS####
 
 ###INTRO####
@@ -2311,9 +2374,12 @@
  armenia.29.d:0 "Yerevan has issued a formal demand for the return of Karabakh, citing historical claims and the region’s Armenian majority. Azerbaijani sovereignty is challenged. Turkish envoys urge defiance. Baku faces a defining choice: surrender land to preserve peace in the caucasus or defend Azerbaijani soil at the risk of war."
  armenia.29.a:0 "Cede Karabakh. Avoid Conflict"
  armenia.29.b:0 "Karabakh is Azerbaijan!"
+ 
  armenia.30.t:0 "Karabakh Restored: A Bloodless Victory"
  armenia.30.d:0 "Karabakh’s ancient Armenian monasteries and villages return to the Homeland, their people celebrating as Azeri forces withdraw. Baku’s pragmatism spares the Caucasus from war, though Soviet maps still mark the region as contested. Our rightful lands are reclaimed."
  armenia.30.a:0 "Karabakh is Armenian Again!"
+ armenia.30.b:0 "Push further demands."
+ 
  armenia.31.t:0 "Defiance From Baku. War Calls"
  armenia.31.d:0 "Baku’s refusal to cede Karabakh forces our hand. Armenian troops prepare for war. Karabakh will be ours no matter the cost."
  armenia.31.a:0 "To Victory!"
@@ -2410,9 +2476,11 @@
  armenia.43.t:0 "Defiance in Tbilisi"
  armenia.43.d:0 "Our diplomats have returned from Tbilisi with grim news. The Georgians have refused our generous offer to restore their monarchy and join us under a shared royal banner."
  armenia.43.a:0 "Prepare the Troops"
+ 
  armenia.59.t:0 "The Illness of Hovhannes Kajaznuni"
- armenia.59.d:0 "Hovhannes Kajaznuni, the first Prime Minister of Armenia and a towering figure in the republic’s formative years, has fallen gravely ill. For over a decade, Kajaznuni stood as a symbol of moderation and dignity, steering the nation through turbulent waters after independence. But now, confined to his home and unable to attend state functions, his presence is only felt in the legacy of his speeches and the shadows of his fading influence. Though no official statement has yet been made."
- armenia.59.a:0 "His service will not be forgotten."
+ armenia.59.d:0 "Hovhannes Kajaznuni, the founder of the Armenian Republic and its first Prime Minister, has been struck by a sudden and severe illness. Physicians warn that continued stress may permanently damage his health. Within the Armenian Revolutionary Federation, debate has erupted: should Kajaznuni retire gracefully for the good of the nation, or should he be granted time to recover and resume leadership once more?"
+ armenia.59.a:0 "He will recover and return."
+ armenia.59.b:0 "Let him retire."
  
  armenia.61.t:0 "The Church Ascends"
  armenia.61.d:0 "After long centuries of statelessness, the Armenian Apostolic Church has assumed leadership of the nation. From the bustling streets of Yerevan to the sacred heights of Mount Ararat, the clergy takes up the mantle of governance, uniting the people under faith, law, and order. Catholicos Khoren I Muradbekian, spiritual leader of the Church, calls upon all Armenians to dedicate themselves to the restoration of their homeland and the renewal of its spiritual and cultural glory."
@@ -2583,6 +2651,26 @@
  armenia.101.t:0 "Georgia Yields Shavsheti"
  armenia.101.d:0 "Georgia has agreed to cede the Shavsheti region as requested. With this concession, Armenia has secured yet another victory in restoring its historical lands."
  armenia.101.a:0 "Another triumph for our state!"
+ 
+ armenia.102.t:0 "Armenian Additional Demands"
+ armenia.102.d:0 "Having secured our agreement to transfer Karabakh, the Armenian government has returned with further demands. Yerevan now insists that the adjacent regions of Lachin and Dashkasan must also be ceded, arguing that without them the stability and security of Karabakh cannot be guaranteed. The tone of the message leaves little doubt that Armenia considers this a continuation of the same settlement rather than a new negotiation."
+ armenia.102.a:0 "Concede the additional territories."
+ armenia.102.b:0 "Reject the demands."
+ 
+ armenia.103.t:0 "Azerbaijan Accepts Our Demands"
+ armenia.103.d:0 "Baku has formally accepted our conditions and agreed to transfer Karabakh along with the regions of Lachin and Dashkasan to Armenian administration. The handover of authority is now underway, marking a decisive shift in the balance of power in the South Caucasus and a major victory for Armenian diplomacy."
+ armenia.103.a:0 "A historic achievement."
+ 
+ armenia.104.t:0 "Snap Elections"
+ armenia.104.d:0 "With Hovhannes Kajaznuni stepping down, the Armenian Revolutionary Federation has moved quickly to organize snap elections for a new Prime Minister. Veteran revolutionaries, intellectuals, and younger party organizers now compete to shape the future of the republic. The decision made today will determine Armenia’s political direction in the dangerous years ahead."
+ armenia.104.a:0 "Simon Vratsian"
+ armenia.104.b:0 "Alexander Khatisian"
+ armenia.104.c:0 "Hamazasp Ohanjanyan"
+ armenia.104.e:0 "Avetis Aharonian"
+ 
+ armenia.105.t:0 "The Death of Hovhannes Kajaznuni"
+ armenia.105.d:0 "Hovhannes Kajaznuni has passed away at the age of 68. A founding figure of the Armenian Republic and a leading voice of the Armenian Revolutionary Federation, his life was marked by revolution, statehood, exile, and sacrifice. The nation mourns as a chapter of its early independence comes to an end."
+ armenia.105.a:0 "A founder of the republic is laid to rest."
  
  ####GEORGIA EVENTS####
  georgia.2.t:0 "Noe Zhordania Retires"
@@ -3158,6 +3246,168 @@
  azerbaijan.83.d:0 "Azerbaijan has declined our proposal. Whether out of caution or unwillingness to inherit our crisis, they have chosen not to intervene."
  azerbaijan.83.a:0 "We will endure, whatever the cost."
  
+ azerbaijan.84.t:0 "Destabilization in Karabakh"
+ azerbaijan.84.d:0 "The Armenian population of Karabakh has appealed to Yerevan for protection. Months of intermittent clashes, raids, and acts of sabotage have destabilized the region, and Azerbaijani security forces are expanding their operations against local partisan groups. Pressure is mounting on the Armenian government to respond."
+ azerbaijan.84.a:0 "We cannot afford a war."
+ azerbaijan.84.b:0 "Intervene in Karabakh."
+ 
+ azerbaijan.85.t:0 "Armenia Stands Down"
+ azerbaijan.85.d:0 "Despite rising tensions and public outcry, the Armenian government has decided against intervention. Diplomatic channels remain open, but for now Yerevan will not challenge Azerbaijani operations in Karabakh."
+ azerbaijan.85.a:0 "They know better."
+ 
+ azerbaijan.86.t:0 "The Armenian Ultimatum"
+ azerbaijan.86.d:0 "After months of clashes, raids, and sabotage in Karabakh, Armenia has issued a formal ultimatum. Yerevan demands that Azerbaijan immediately halt its military operations in the region, warning that continued instability threatens Armenian strategic interests. Failure to comply may result in sanctions or direct intervention."
+ azerbaijan.86.a:0 "Comply fully with Armenian demands."
+ azerbaijan.86.b:0 "Comply publicly, but continue operations in secret."
+ azerbaijan.86.c:0 "Try to negotiate better terms."
+ azerbaijan.86.e:0 "Refuse the armenian ultimatum outright."
+ 
+ azerbaijan.87.t:0 "[GetYear] Elections"
+ azerbaijan.87.d:0 "The ballots have been counted, and the results are in. After months of campaigning across the republic, the people have spoken. Voter turnout was high, reflecting both the political engagement of the population and the intensity of debates over economic recovery, national security, and territorial integrity."
+ azerbaijan.87.a:0 "Another victory for Müsavat!"
+ azerbaijan.87.b:0 "Hümmet manages to secure victory!"
+ azerbaijan.87.c:0 "Ehrar wins unexpectedly!"
+ azerbaijan.87.e:0 "Qeyret wins the majority in Majlis-Mabusan!"
+ 
+ azerbaijan.88.t:0 "Armenian-Azerbaijani Anti-Terrorist Committee?"
+ azerbaijan.88.d:0 "The neighbouring Azerbaijan under leadership of [AZR.GetLeader] has approached us with an idea to create a joint anti-terrorist organisation, directed at eradicating Armenian Terrorism at our common borders and in the Karabagh region."
+ azerbaijan.88.a:0 "That's a great idea!"
+
+ azerbaijan.89.t:0 "[FROM.GetName] Agrees!"
+ azerbaijan.89.d:0 "The [FROM.GetAdjective] government has willingly accepted our offer, and tomorrow the treaty will be ratified by the Azerbaijani parliament. Our cooperation in this field will help us to finally eradicate Armenian terrorism."
+ azerbaijan.89.a:0 "A toast to our friends!"
+ 
+ azerbaijan.90.t:0 "Proposal to Exchange Karabakh for Nakhchivan"
+ azerbaijan.90.d:0 "Seeking a lasting resolution to regional tensions, the Azerbaijani government has approached Armenia with a bold proposal. Baku is willing to transfer control of Karabakh in exchange for Nakhchivan, believing that a territorial settlement could stabilize the border and open the door to deeper economic and military cooperation."
+ azerbaijan.90.a:0 "Accept the territorial exchange."
+ azerbaijan.90.b:0 "Reject the proposal."
+ 
+ azerbaijan.91.t:0 "Territorial Exchange Agreement Signed"
+ azerbaijan.91.d:0 "After negotiations, Armenia has agreed to the proposed exchange. Karabakh will be transferred to Armenian administration, while Nakhchivan will pass under Azerbaijani control. The agreement also includes provisions for railway transit, civilian travel, and mutual military access, marking a significant thaw in relations between the two states."
+ azerbaijan.91.a:0 "A new chapter begins."
+ 
+ azerbaijan.92.t:0 "Armenia Rejects the Exchange"
+ azerbaijan.92.d:0 "The Armenian government has declined our proposal, citing concerns over sovereignty, security, and domestic opposition. The question of Karabakh and Nakhchivan remains unresolved, and tensions in the region are likely to persist."
+ azerbaijan.92.a:0 "Unfortunate."
+ 
+ azerbaijan.93.t:0 "Azerbaijan Offers Karabakh"
+ azerbaijan.93.d:0 "Following prolonged unrest and mounting costs, the Azerbaijani government has informed us of its decision to relinquish Karabakh. Baku hopes that transferring the region to Armenian administration will bring an end to hostilities and stabilize the South Caucasus."
+ azerbaijan.93.a:0 "Accept the transfer."
+ 
+ azerbaijan.94.t:0 "Armenia Accepts the Transfer of Karabakh"
+ azerbaijan.94.d:0 "Armenia has formally accepted our decision to transfer Karabakh. The handover of authority is now underway, marking a major shift in regional politics and potentially bringing an end to years of instability."
+ azerbaijan.94.a:0 "At last, the matter is settled."
+ 
+ azerbaijan.95.t:0 "The Administration of Autonomous Karabakh"
+ azerbaijan.95.d:0 "With Karabakh reorganized as an autonomous entity within our sphere, the question of its leadership must now be settled. The choice of governor will determine not only the stability of the region, but also the balance between reconciliation and control.\n\nSome within the government argue that appointing a loyal Azerbaijani administrator will ensure order and safeguard Baku’s interests. Others contend that granting leadership to a local Armenian figure may ease tensions and lend legitimacy to the new autonomous arrangement."
+ azerbaijan.95.a:0 "Install Yeghishe Ishkhanian."
+ azerbaijan.95.b:0 "Appoint Khosrov bey Sultanov."
+ 
+ azerbaijan.103.t:0 "Blood in the Passes"
+ azerbaijan.103.d:0 "Reports have arrived from the mountain passes near Shusha. A convoy carrying food and ammunition to the local garrison was ambushed at dawn. The attackers, armed with rifles, vanished into the hills after destroying the lead truck."
+ azerbaijan.103.a:0 "The army will answer in kind."
+ azerbaijan.103.b:0 "We must not inflame the mountains further."
+ azerbaijan.103.c:0 "This is a war for our faith."
+
+ azerbaijan.104.t:0 "Ashes of the Pipeline"
+ azerbaijan.104.d:0 "Under the cover of night, saboteurs struck again. A section of the oil pipeline east of Ganja was blown apart. Flames rose so high they could be seen from the city walls, illuminating the smoke-stained hills. British shareholders have already dispatched urgent telegrams to Baku, demanding the protection of their assets and warning of dire consequences if such attacks continue."
+ azerbaijan.104.a:0 "We will rebuild."
+ azerbaijan.104.b:0 "If our sovereignty is threatened again, they will regret it."
+ azerbaijan.104.c:0 "Workers bleed while the rich are indemnified!"
+
+ azerbaijan.105.t:0 "Ambush in Karabakh"
+ azerbaijan.105.d:0 "Violence flared again near Lachin. Armenian fighters under ambushed an Azerbaijani patrol, seizing weapons and scattering soldiers into the hills. Local peasants fled their homes, fearful of reprisals from either side."
+ azerbaijan.105.a:0 "Approve the emergency decree."
+ azerbaijan.105.b:0 "Submit the decree to the Majlis-Mabusan"
+ azerbaijan.105.c:0 "Arm local Muslim volunteers."
+ azerbaijan.105.e:0 "Focus on social aid to border village."
+
+ azerbaijan.106.t:0 "Black Day for Baku"
+ azerbaijan.106.d:0 "Baku trembles once more. At midday, a tramcar explodes along the boulevard, claiming seven lives. That evening, a grenade detonates in the courtyard of the Ministry of Internal Affairs. Panic spreads through the city blaming Armenian insurgents."
+ azerbaijan.106.a:0 "Arrest the agitators - all of them."
+ azerbaijan.106.b:0 "Do not let fear divide the nation"
+ azerbaijan.106.c:0 "This only proves the regime's weakness!"
+
+ azerbaijan.107.t:0 "Flames Along the Tracks"
+ azerbaijan.107.d:0 "Reports flood in from the north: Armenian guerrillas have sabotaged sections of the Baku–Shusha railway. Several freight trains are derailed, supply lines disrupted, and a small ammunition depot is set ablaze. The fires light up the night sky, visible from nearby villages. Public anxiety grows as the disruption threatens commerce and military readiness."
+ azerbaijan.107.a:0 "Repair the lines immediately and punish the saboteurs."
+ azerbaijan.107.b:0 "Offer incentives to villagers for intelligence on insurgent movements."
+ azerbaijan.107.c:0 "Broadcast a call to all to unite against these attacks!"
+
+ azerbaijan.108.t:0 "Shadows Over Shusha"
+ azerbaijan.108.d:0 "At dawn, Armenian insurgents launch a daring raid on Shusha’s outlying villages. Smoke rises from the hills as frightened villagers flee toward the city. In Baku, news of the attack sparks outrage. Opposition from the Qeyret and İttihad demand decisive retaliation, while liberals argue for restraint and diplomacy. The raid exposes weaknesses in border defenses and threatens to escalate the simmering conflict into full-scale war."
+ azerbaijan.108.a:0 "Deploy the army and strike the rebels where they hide."
+ azerbaijan.108.b:0 "Send negotiators and offer amnesty for surrendering insurgents."
+ 
+ azerbaijan.111.t:0 "Azerbaijan Ends the Karabakh Conflict"
+ azerbaijan.111.d:0 "Owing to our mediation, the Azerbaijani authorities have consented to a peaceful resolution of the conflict in Karabakh and have announced a cessation of their military operations."
+ azerbaijan.111.a:0 "Great!"
+ 
+ azerbaijan.112.t:0 "Conflict in Karabakh Escalates!"
+ azerbaijan.112.d:0 "News from Baku reaches Yerevan: the Azerbaijani government has outright rejected our demands to halt their military operations in Karabakh region. Our newspapers report indignantly about reckless instability \"at the gates of the Caucasus\", while industrial lobbies pressure for swift action to prevent further losses."
+ azerbaijan.112.a:0 "Pressure Baku through threats." #->20
+ azerbaijan.112.b:0 "Contact the British on the issue." #->13
+
+ azerbaijan.113.t:0 "Armenia Attempts Armistice in Karabakh"
+ azerbaijan.113.d:0 "As the conflict in the Highland Karabakh region of Azerbaijan continues to escalate, Armenia has attempted to exert pressure on Baku by advocating for a ceasefire. However, [AZE.GetName] has steadfastly refused to acquiesce to these demands, likely due to the repeated same concessions made by the ruling Müsavat Party over the last 20 years, which have eroded its popularity and allowed Armenian nationalists to consolidate their influence.\n\nIn light of this, Armenia has now turned to us for mediation, seeking our assistance in influencing the Müsavatist leadership in Baku. This presents a unique opportunity for our government to enhance our position in the Caucasus region. We can endeavor to negotiate our own terms with Azerbaijan, potentially securing access to more of its resources and drawing it more into our orbit of influence."
+ azerbaijan.113.a:0 "Refuse Armenian request and support Azerbaijan."
+ azerbaijan.113.b:0 "Support Armenian demands and offer \"peace mediation\"."
+
+ azerbaijan.114.t:0 "Armenia and United Kingdom Enforce Peace"
+ azerbaijan.114.d:0 "As the conflict continues, both Yerevan and London have now attempted to exert influence on our government. The Armenian side strongly advocates for an armistice, while the British propose \"peaceful mediation\". The situation is becoming increasingly tense, with British diplomats subtly insinuating that rejecting the generous offer extended by them is untenable. We are compelled to reluctantly accept their terms. While London appears to be seeking calm, Armenian officers have already begun to deploy to the border regions, ostensibly for observation purposes, effectively establishing temporary control over Karabakh."
+ azerbaijan.114.a:0 "We are withdrawing troops today, but Azerbaijan will soon rise up!"
+
+ azerbaijan.115.t:0 "Secret Note from the British Ambassador"
+ azerbaijan.115.d:0 "Through clandestine channels, we have received information indicating that Armenia has approached the United Kingdom as a mediator in resolving the current conflict. However, the British have proposed cooperation with us instead. Their terms are straightforward: they are willing to support our efforts to achieve a peaceful resolution of the matter with the Armenian partisans, in return for investments and preferential treatment in trade in oil with us."
+ azerbaijan.115.a:0 "Stand together with the British!"
+ azerbaijan.115.b:0 "After second thought, we'd better try our best with Armenia."
+ azerbaijan.115.c:0 "We are not interested in their secret proposal."
+
+ azerbaijan.116.t:0 "British Refuse Mediation!"
+ azerbaijan.116.d:0 "The United Kingdom declined to act as a mediator in resolving the Karabakh dispute, and the Azerbaijani government rejected the proposal for a truce with the Armenians. Now we must determine what course of action to take with this defiant republic."
+# azerbaijan.112.a: "Pressure Baku through threats."
+ azerbaijan.116.b:0 "Back down."
+
+ azerbaijan.117.t:0 "Azerbaijan's Counter-Proposal"
+ azerbaijan.117.d:0 "In response to our urgent demand to immediately halt hostilities in Karabakh, the Minister of Foreign Affairs of Azerbaijan, as head of the delegation, engaged in a negotiation process with us."
+ azerbaijan.117.a:0 "If this guarantees peace."
+ azerbaijan.117.b:0 "We will not negotiate with them."
+
+ azerbaijan.118.t:0 "Armenia Refused our Counter-Offer"
+ azerbaijan.118.d:0 "The Armenian government has formally rebuffed our proposal, steadfastly insisting on their own conditions for the cessation of hostilities."
+
+ azerbaijan.119.t:0 "Armenia Accepted our Terms"
+ azerbaijan.119.d:0 "Armenia has notified us that they have agreed to our counter-proposals."
+ azerbaijan.119.a:0 "Great!"
+
+ azerbaijan.120.t:0 "Armenia Pressures Us!"
+ azerbaijan.120.d:0 "The Armenians are blatantly exerting pressure on us in an attempt to secure the acceptance of their conditions. We must provide them with a definitive response."
+ azerbaijan.120.a:0 "We stand on our terms."
+ azerbaijan.120.b:0 "We are not in a position to counter them."
+ 
+ azerbaijan.121.t:0 "Azerbaijan Stands its Ground"
+ azerbaijan.121.d:0 "Despite all our efforts to resolve the issue amicably, Azerbaijan has ultimately chosen to disregard our requests for a unilateral ceasefire."
+ azerbaijan.121.a:0 "We are not a laughing stock!"
+
+ azerbaijan.122.t:0 "Armenia Backs Down!"
+ azerbaijan.122.d:0 "Realizing the significance of a war with Azerbaijan, Armenia relinquished its demands and opted to abstain from meddling in our domestic affairs."
+ azerbaijan.122.a:0 "A great victory for our diplomats!"
+
+ azerbaijan.123.t:0 "Armenian Sanctions"
+ azerbaijan.123.d:0 "Following unsuccessful negotiations, Armenia has declared that it is compelled to impose economic sanctions on our country, as we have refused to cede our ancestral territories to the terrorist militant group. This decision will have far-reaching consequences for the entire region."
+ azerbaijan.123.a:0 "A cost for our independence."
+
+ azerbaijan.124.t:0 "Armenian Resistance Crushed!"
+ azerbaijan.124.d:0 "After months of relentless pursuit, the fires of rebellion in Qarabag have begun to fade. Azerbaijani troops, hardened by the mountain campaign, report that organized resistance has all but vanished. The villages once flying insurgent banners now stand eerily quiet. The once-frequent ambushes and sabotage of supply columns have ceased. The remaining partisan cells have dissolved into the forests, blending among the peasantry or dispersing toward Zangezur and Nakhchivan."
+ azerbaijan.124.a:0 "Interesting..."
+
+ azerbaijan.125.t:0 "The Qarabag Question"
+ azerbaijan.125.d:0 "The guns have fallen silent in Qarabag, but the echoes of rebellion linger in the minds of the people. The government faces a question that has haunted the republic since its birth - how to integrate the Armenian population, now broken and distrustful, into the Azerbaijani state.\n\nThe military governors warn that any leniency will only invite renewed trouble. In their view, the mountains must be held with a firm hand and the local councils purged of disloyal elements. Others - particularly within the liberal Ehrar and moderate Müsavat circles - argue that peace cannot last without some measure of reconciliation. \n\nMeanwhile, the Hümmet deputies demand that the state address the root causes: poverty, exploitation, and inequality. They insist that true loyalty will come only from justice, not bayonets."
+ azerbaijan.125.a:0 "Offer cultural autonomy and self-governance." #puppet
+ azerbaijan.125.b:0 "Reinforce national unity - no talk of autonomy." #keep
+ azerbaijan.125.c:0 "Give it back to Armenia its not worth the effort."
+ azerbaijan.125.e:0 "Propose a territorial exchange with Armenia."
+ 
  ####ABKHAZIA events
  abkhazia.2.t:0 "Support the Ossetian Rebellion?"
  abkhazia.2.d:0 "The Ossetian rebels have reached out for assistance in their fight against Tbilisi. Abkhazia must decide whether to provide aid to their northern neighbors and escalate the conflict or remain uninvolved and focus on their own struggle."
@@ -3449,6 +3699,9 @@
  
  AZR_army_reform_tt:0 "Unlocks §YReforming Our Armed Forces§! decisions."
  
+ AZR_unlock_rebel_tt:0 "Unlocks §YFunding Rebels§! decisions."
+ AZR_irregular_support_tt:0 "When war starts §YIrregulars§! will spawn in this state."
+ 
  ###country flags
  GEO_tblisi_protests_flag:0 "The People Started Protests."
  GEO_new_elections_flag:0 "Noe Ramishvili Called for New Elections."
@@ -3469,6 +3722,8 @@
  DAG_independence_won_flag:0 "Independence war is won."
  
  ARM_ottoman_empire_flag:0 "Dominance over Anatolia and an unexpected union of crowns."
+ 
+ AZR_dagestan_uprising_flag:0 "Support the North Caucasian Uprising"
  
  
  ####Other natinos####
@@ -3543,6 +3798,12 @@
  dag_alexander_borisov:0 "Alexander Borisov"
  dag_mikhail_sklyarov:0 "Mikhail Sklyarov"
  dag_safarbek_malsagov:0 "Safarbek Malsagov"
+ 
+ ### Karabakh
+ krb_yeghishe_ishkhanian:0 "Yeghishe Ishkhanyan"
+ krb_ashot_hovhannisyan:0 "Ashot Hovhannisyan"
+ krb_nikol_duman:0 "Nikol Duman"
+
 
  
  ####Factions####
@@ -3558,10 +3819,12 @@
  
  #### OPINIONS
  
- ARM_armenian_genocide:0 "Armenian Genocide"
- ARM_turkish_nation:0 "Turkic Brothers"
+ ARM_turkish_nation:0 "Turkic Nation"
  ARM_karabakh_skirmishes:0 "Border Skirmishes"
- ARM_friendship:0 "Good Relations"
+ 
+ ARM_scars_of_the_past:0 "Scars of the Past"
+ ARM_friendship_greek:0 "Common Enemy"
+ AZR_friendship_turk:0 "Turkish Brothers"
 
  
  ###Volga don Canal###
@@ -3622,4 +3885,26 @@
  caspian_tiger_achievement_tt:0 "Azerbaijan controls the entire Caspian Sea shore."
  form_soviet_achievement_tt:0 "Armenia formed the Soviet Union."
  ottoman_armenia_achievement_tt:0 "Armenia formed the Armenian–Ottoman Empire."
+ 
+ ##political party parties
+ AZR_qajar_dynasty_party: "Azerbaycan Ordusu"
+ AZR_qajar_dynasty_party_long: "Azerbaycan Ordusu"
+ 
+ ARM_regency_council_party: "Provisional Government"
+ ARM_regency_council_party_long: "Armenian Provisional Government"
+ 
+ ARM_bagratuni_party: "House of Bagratuni"
+ ARM_bagratuni_party_long: "House of Bagratuni"
+ 
+ ARM_church_party:0 "Apostolic Church"
+ ARM_church_party_long:0 "Armenian Apostolic Church"
+ 
+ AZR_social_liberal_party:0 "Ahrar"
+ AZR_social_liberal_party_long:0 "Ahrar Partiyası"
+ 
+ AZR_social_conservative_party:0 "Qeyret"
+ AZR_social_conservative_party_long:0 "Türk Edemi-Merkeziyyet Firqesi"
+ 
+ AZR_social_democrat_party:0 "Hümmet"
+ AZR_social_democrat_party_long:0 "Sosial Demokrat Müselman Teşkilatı"
 

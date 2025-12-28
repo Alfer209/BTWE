@@ -1656,8 +1656,8 @@
  ARM_democratic_party_long:0 "Hay Heghapokhakan Dashnaktsutyun"
  ARM_communism_party:0 "HKK"
  ARM_communism_party_long:0 "Hayastani Komunistakan Kusaktsutyun"
- ARM_neutrality_party:0 "Ramgavar"
- ARM_neutrality_party_long:0 "Ramgavar Azatakan Kusaktsutyun"
+ ARM_neutrality_party:0 "AGBU"
+ ARM_neutrality_party_long:0 "Armenian General Benevolent Union"
  
  GEO_fascism_party: "Tetri Giorgi"
  GEO_fascism_party_long: "The Patriotic Union Tetri Giorgi"
@@ -1684,18 +1684,6 @@
  ABK_democratic_party_long:0 "Sotsial-Demokratiuli Partiis Apkhazetis"
  ABK_neutrality_party:0 "Sharvashidze-Chachba"
  ABK_neutrality_party_long:0 "House of Sharvashidze-Chachba"
- 
- AZR_qajar_dynasty_party: "Azerbaycan Ordusu"
- AZR_qajar_dynasty_party_long: "Azerbaycan Ordusu"
- 
- ARM_regency_council_party: "Provisional Government"
- ARM_regency_council_party_long: "Armenian Provisional Government"
- 
- ARM_bagratuni_party: "House of Bagratuni"
- ARM_bagratuni_party_long: "House of Bagratuni"
- 
- ARM_church_party:0 "Apostolic Church"
- ARM_church_party_long:0 "Armenian Apostolic Church"
  
  DAG_communism_party:0 "OKSP"
  DAG_communism_party_long:0 "Obyedineniy Komitet Sotsialisticheskikh Partiy"

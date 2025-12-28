@@ -5854,9 +5854,26 @@
  DAG_SOV_communism_subject:0 "Mountainous Soviet Socialist Republic"
  DAG_SOV_communism_subject_DEF:0 "the Mountainous Soviet Socialist Republic"
  DAG_SOV_communism_subject_ADJ:0 "North Caucasian"
-
-
-
-
-
-
+ 
+ ###KRB
+ 
+ KRB_fascism:0 "Karabakh Council"
+ KRB_fascism_DEF:0 "the Karabakh Council"
+ 
+ KRB_democratic:0 "Karabakh Council"
+ KRB_democratic_DEF:0 "the Karabakh Council"
+ 
+ KRB_communism:0 "Karabakh Council"
+ KRB_communism_DEF:0 "the Karabakh Council"
+ 
+ KRB_neutrality:0 "Karabakh Council"
+ KRB_neutrality_DEF:0 "the Karabakh Council"
+ 
+ KRB_fascism_ADJ:0 "Armenian"
+ KRB_democratic_ADJ:0 "Armenian"
+ KRB_communism_ADJ:0 "Armenian"
+ KRB_neutrality_ADJ:0 "Armenian"
+ 
+ KRB_AZR_subject:0 "Karabakh Autonomous Republic"
+ KRB_AZR_subject_DEF:0 "the Karabakh Autonomous Republic"
+ KRB_AZR_subject_ADJ:0 "Karabakhci"

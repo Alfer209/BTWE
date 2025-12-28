@@ -1264,7 +1264,7 @@
  STATE_1065:0 "Kura"
  STATE_1055:0 "South Ossetia"
  STATE_1056:0 "Adjara"
- STATE_1051:0 "Qarabakh"
+ STATE_1051:0 "Highland Karabakh"
  STATE_1048:0 "Nakhijevan"
  STATE_1047:0 "Syunik"
  STATE_1050:0 "Bakı"
@@ -1282,24 +1282,27 @@
  STATE_1067:0 "Derbent"
  STATE_1068:0 "Ardahan"
  STATE_1069:0 "Lazistan"
+ STATE_1070:0 "Laçın-Daşkasan"
  
  ###Armenian
  ARM_STATE_354:0 "Upper Armenia"
  ARM_STATE_800:0 "Vaspurakan"
- ARM_STATE_1051:0 "Artsakh"
  ARM_STATE_1057:0 "Javakhk"
+ ARM_STATE_1070:0 "Lachin-Dashkasan"
  
  ####Azerbaijani
  AZR_STATE_1054:0 "Zaqatala"
  AZR_STATE_1065:0 "Kür"
  AZR_STATE_1048:0 "Naxçıvan"
  AZR_STATE_1047:0 "Sünik"
+ AZR_STATE_1051:0 "Dakhlıq Qarabakh"
  
  ####Georgian
  GEO_STATE_826:0 "Apkhazeti"
  GEO_STATE_1055:0 "Inner Kartli"
  GEO_STATE_1059:0 "Shavsheti"
  GEO_STATE_1069:0 "Klarjeti"
+ 
 
 
 
