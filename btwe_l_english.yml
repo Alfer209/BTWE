@@ -656,8 +656,15 @@
  GEO_attack_azerbaijan_desc:0 "Our realm once encompassed the fertile valleys of Caucasian Albania, today’s Azerbaijan where Georgians, Albanians, and other mountain peoples lived as brothers in faith and custom. It is our sovereign duty to reunite these ancient provinces with Georgia, restoring the kingdom to its rightful bounds."
  GEO_demand_maku:0 "Reclaim Maku"
  GEO_demand_maku_desc:0 "The plateaus of Maku used to mark the northernmost limit of our Georgian realm. Though the Pahlavi government now holds sway in Tehran, Maku’s ancient ties to Tbilisi cannot be denied. We will send a formal ultimatum to Persia: return the Maku marches to their rightful place within the Georgian kingdom."
+ 
  GEO_attack_turkey:0 "Retake the Black Sea Coast"
  GEO_attack_turkey_desc:0 "Georgia’s borders used to reach deep into what is now eastern Anatolia, those lands flourished as part of our realm. With Ankara preoccupied and our armies strengthened, it is time to restore these historic provinces to the Georgian crown. We shall march eastward and reclaim what is rightfully ours."
+ 
+ GEO_attack_iran:0 "Persian Campaign"
+ GEO_attack_iran_desc:0 "During the Great War, Russian forces operating from the Caucasus occupied much of Northern Persia, securing the frontier against Ottoman encroachment and foreign intrigue. The collapse of imperial authority in 1917 forced a withdrawal, leaving these territories beyond our reach. Now, with the Caucasus united under a single administration once more, we can restore our influence south of the Araxes."
+ GEO_attack_finland:0 "Reclaim Finland"
+ GEO_attack_finland_desc:0 "For centuries, Finland formed an integral part of the empire, serving as both shield and gateway to the Baltic. Its separation was the product of revolution and weakness, not lawful order. With the empire restored, we must reassert our authority and reclaim the lands unjustly torn away."
+ 
  GEO_attack_soviets:0 "Restore Our Northern Lands"
  GEO_attack_soviets_desc:0 "Our realm stretched beyond the Caucasus crest into Alania and even across the Black Sea to the Crimean peninsulas. With the Red threat momentarily held at bay, Georgia must strike now to reclaim its historic northern lands and secure access to the Black Sea."
  GEO_join_axis:0 "Forge the Berlin–Tbilisi Axis"
@@ -1746,6 +1753,14 @@
 
  ####AZR generals
  
+ azr_akbar_agha_sheykhulislamov:0 "Akbar ağa Şeyxülislamov"
+ azr_rashid_bey_akhundzadeh:0 "Raşid bey Axundzade"
+ azr_mirza_bala_mammedzade:0 "Mirza Bala Mammedzade"
+ azr_heybatgulu_mammadbayov:0 "Heybatqulu Mammedbeyov"
+ azr_ismayil_bey_jamalbeyov:0 "İsmayıl bey Camalbeyov"
+ 
+ azr_mirza_asadullayev:0 "Mirza Asadullayev"
+ 
  azr_mashadi_azizbeyov:0 "Maşadi Azizbeyov"
  
  AZR_mehdi_huseynzade:0 "Mehdi Hüseynzade"
@@ -1832,6 +1847,10 @@
  azr_israfil_israfilov:0 "İsrafil İsrafilov"
  azr_mammed_agpolad:0 "Mammed Ağpolad"
  azr_baba_behbud:0 "Baba bey Behbud"
+ 
+ azr_javad_bey_malikyeganov:0 "Cavad bey Malik-Yeqanov"
+ azr_yevsey_gindes:0 "Yevsey Gindes"
+
 
  
  ####IDEAS####
@@ -2004,6 +2023,9 @@
  AZR_british_oil_trade:0 "Trade Treaty with the British"
  
  AZR_oil_company:0 "Branobel"
+ AZR_azneft_idea:0 "Azneft"
+ 
+ 
  AZR_secular_state:0 "Secularized State"
  AZR_secular_state_desc:0 "Since the independence war, it has been decreed that in order to stand with the other great nations of the world, then [AZR.GetNameDef] needs to modernize. This includes separating religion and state. People can still practice Islam, however it will no longer have sway in our nation's politics."
  AZR_bad_military:0 "Disorganised Military"
@@ -2129,6 +2151,10 @@
  ####Decisions
  form_greater_armenia:0 "Reunification of the Armenian Lands"
  release_armenian_kurdistan:0 "Establish an Armenian Mandate in Kurdistan"
+ 
+ arm_resettle_trabzon:0 "Resettle Trabzon"
+ arm_resettle_van:0 "Resettle Van"
+ 
  form_armenian_kingdom_cat:0 "Restoration of the Armenian Kingdom"
  form_armenian_kingdom_cat_desc:0 "Our recent conquests have reached the extents of the Tigranes the Great's Kingdom. With our region's rich history, how can we not take this opportunity to identify our realm as a continuation of the empire?"
  armenian_kingdom:0 "Restore the Armenian Kingdom"
@@ -2200,6 +2226,7 @@
  azr_form_tcu:0 "Recreate the Transcaucasian Federation"
  azr_armenia_tcu:0 "Visit Yerevan"
  azr_georgia_tcu:0 "Visit Tbilisi"
+ azr_core_northern_caucasus:0 "Integrate the Northern Caucasus"
  
  azr_form_turkestan_category:0 "Form Turkestan"
  azr_form_turkestan_category_desc:0 "Throughout our history, the Turkic peoples have been united and divided countless times. If we can bring the entire Central Asian region under our control, we will be able to reclaim the legacy of the great Turkic Khans before us and unite our people into one nation!"
